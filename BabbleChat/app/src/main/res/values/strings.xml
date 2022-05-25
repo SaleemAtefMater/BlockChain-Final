@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Babble</string>
+    <string name="ip">http://3.3.3.11:5000</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A Nawajha/Desktop/BulletChat66666/socket_chat-5555/app/src/main/res/drawable/ic_group.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/A Nawajha/Desktop/BulletChat66666/socket_chat-5555/app/src/main/res/layout/activity_chat.xml" value="0.259375" />
+        <entry key="..\:/Users/A Nawajha/Desktop/BulletChat66666/socket_chat-5555/app/src/main/res/layout/chat_item.xml" value="0.259375" />
+        <entry key="..\:/Users/A Nawajha/Desktop/BulletChat66666/socket_chat-5555/app/src/main/res/layout/user_item.xml" value="0.259375" />
+        <entry key="..\:/Users/khali/OneDrive/Desktop/BulletChat66666/BabbleChat/app/src/main/res/drawable/ic_group.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/khali/OneDrive/Desktop/BulletChat66666/BabbleChat/app/src/main/res/layout/activity_group_chat.xml" value="0.25" />
+        <entry key="..\:/Users/khali/OneDrive/Desktop/BulletChat66666/BabbleChat/app/src/main/res/layout/people_group_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
